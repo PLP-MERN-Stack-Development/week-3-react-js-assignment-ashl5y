@@ -62,9 +62,7 @@ Your work will be automatically submitted when you push to your GitHub Classroom
 4. Style your application with Tailwind CSS
 5. Deploy your application and add the URL to your README.md
 
-## Resources
+## Deployed app
 
-- [React Documentation](https://react.dev/)
-- [Tailwind CSS Documentation](https://tailwindcss.com/docs)
-- [Vite Documentation](https://vitejs.dev/guide/)
-- [React Router Documentation](https://reactrouter.com/) 
+Here is the deployed app on Netlify:  
+[https://](
